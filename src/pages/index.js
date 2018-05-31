@@ -24,17 +24,23 @@ const IndexPage = () => (
       w&uuml;rde.<br />
     </p>
     <p>
-      Die Liste findet Ihr hier und wird st&auml;ndig aktualisiert:{' '}
-      <a href="https://bit.ly/marcel40" target="_blank">
-        bit.ly/marcel40
-      </a>
+      Die Liste findet Ihr hier und wird st&auml;ndig aktualisiert: <br />
+      <br />
+      <strong>
+        <a href="https://bit.ly/marcel40" target="_blank">
+          bit.ly/marcel40
+        </a>
+      </strong>
     </p>
 
     <p>
-      (Ich habe Amazon Spanien benutzt, weil die meine Lieferadresse haben, aber
-      die meisten Artikel gibt's sicherlich in zig anderen Gesch&auml;ften. Dann
-      bitte nur darauf achten, die englischen Originale zu nehmen. Oft habe ich
-      mir auch bei den Editionen, z.b. Penguin Classics, etwas gedacht.)
+      <small>
+        (Ich habe Amazon Spanien benutzt, weil die meine Lieferadresse haben,
+        aber die meisten Artikel gibt's sicherlich in zig anderen
+        Gesch&auml;ften. Dann bitte nur darauf achten, die englischen Originale
+        zu nehmen. Oft habe ich mir auch bei den Editionen, z.b. Penguin
+        Classics, etwas gedacht.)
+      </small>
     </p>
   </div>
 )
